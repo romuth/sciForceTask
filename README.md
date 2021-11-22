@@ -22,6 +22,8 @@ to have information how many items either stock has
 # Description
 This is a simple rest api, so i'm expected url and path in argument of get request.
 
+Example: 
+
 ```java
-/products?url=YOURURL&path=YOURPATH method GET
+/products?url=https://sciforce.solutions/downloads/sciforce-java-test2.json&path=file.json
 ```
