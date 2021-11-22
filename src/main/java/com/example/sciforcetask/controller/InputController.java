@@ -1,6 +1,5 @@
 package com.example.sciforcetask.controller;
 
-import com.example.sciforcetask.dao.CustomSimpleDao;
 import com.example.sciforcetask.model.ResponseDto;
 import com.example.sciforcetask.service.SimpleDaoService;
 import com.example.sciforcetask.util.CustomHttpClient;
