@@ -1,4 +1,4 @@
-package com.example.sciforcetask.util;
+package com.example.sciforcetask.service;
 
 import com.example.sciforcetask.exception.UniqueUuidException;
 import com.example.sciforcetask.model.ResponseDto;
